@@ -23,6 +23,7 @@ public class GameFragment extends Fragment {
         ImageView img = rootView.findViewById(R.id.imgviewgame);
         Animacion ani = new Animacion(img,350,170,R.drawable.animacion);
         ani.comenzarAnimacion();
+        String s = new String();
 
         return rootView;
     }
