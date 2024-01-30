@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/atacar0" android:duration="30"/>
+    <item android:drawable="@drawable/atacar1" android:duration="30"/>
+    <item android:drawable="@drawable/atacar2" android:duration="30"/>
+    <item android:drawable="@drawable/atacar3" android:duration="30"/>
+    <item android:drawable="@drawable/atacar4" android:duration="30"/>
+    <item android:drawable="@drawable/atacar5" android:duration="30"/>
+    <item android:drawable="@drawable/atacar6" android:duration="30"/>
+    <item android:drawable="@drawable/atacar7" android:duration="30"/>
+    <item android:drawable="@drawable/atacar8" android:duration="30"/>
+
+</animation-list>

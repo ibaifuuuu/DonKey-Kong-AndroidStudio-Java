@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/bailar9" android:duration="50"/>
+    <item android:drawable="@drawable/bailar10" android:duration="50"/>
+    <item android:drawable="@drawable/bailar11" android:duration="50"/>
+    <item android:drawable="@drawable/bailar12" android:duration="50"/>
+    <item android:drawable="@drawable/bailar13" android:duration="50"/>
+    <item android:drawable="@drawable/bailar14" android:duration="50"/>
+    <item android:drawable="@drawable/bailar15" android:duration="50"/>
+    <item android:drawable="@drawable/bailar16" android:duration="50"/>
+    <item android:drawable="@drawable/bailar17" android:duration="50"/>
+    <item android:drawable="@drawable/bailar18" android:duration="50"/>
+    <item android:drawable="@drawable/bailar19" android:duration="50"/>
+    <item android:drawable="@drawable/bailar20" android:duration="50"/>
+    <item android:drawable="@drawable/bailar21" android:duration="50"/>
+    <item android:drawable="@drawable/bailar22" android:duration="50"/>
+
+</animation-list>
