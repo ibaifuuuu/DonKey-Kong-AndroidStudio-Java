@@ -74,14 +74,14 @@ public class Animacion {
             handler.postDelayed(new Runnable() {
                 @Override
                 public void run() {
-                    moverAPunto(xPrincipalAnimacion + 60, 170, 200);
+                    moverAPunto(xPrincipalAnimacion + 60, 125, 200);
                 }
             }, 1200);
 
             handler.postDelayed(new Runnable() {
                 @Override
                 public void run() {
-                    moverAPunto(xPrincipalAnimacion - 60, 170, 200);
+                    moverAPunto(xPrincipalAnimacion - 60, 125, 200);
                     // Increment the iteration count
                     iterationCount++;
                     // Start the next iteration after a delay

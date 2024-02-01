@@ -61,39 +61,39 @@ public class Lienzo extends View {
 
 
         cambiarColorPincel("Marron");
-        dibujarLinea(300,300,600,300);
-        lineasRectas.add(new Linea(300,300,600,300));
+        dibujarLinea(300,250,600,250);
+        lineasRectas.add(new Linea(300,250,600,250));
 
         cambiarColorPincel("Verde");
-        dibujarLinea(600,300,1600,300);
-        lineasRectas.add(new Linea(600,300,1600,300));
+        dibujarLinea(600,250,1600,250);
+        lineasRectas.add(new Linea(600,250,1600,250));
 
 
-        dibujarLinea(300,500,1600,500);
+        dibujarLinea(300,450,1600,450);
         cambiarColorPincel("Marron");
-        dibujarLinea(1600,500,1900,430);
-        lineasRectas.add(new Linea(1600,500,1900,430));
-
-
-        cambiarColorPincel("Verde");
-        dibujarLinea(300,700,1600,700);
-        cambiarColorPincel("Marron");
-        dibujarLinea(300,700,10,630);
-        lineasRectas.add(new Linea(300,700,10,630));
-
+        dibujarLinea(1600,450,1900,380);
+        lineasRectas.add(new Linea(1600,450,1900,380));
 
 
         cambiarColorPincel("Verde");
-        dibujarLinea(300,900,1600,900);
+        dibujarLinea(300,650,1600,650);
         cambiarColorPincel("Marron");
-        dibujarLinea(1600,900,1900,830);
-        lineasRectas.add(new Linea(1600,900,1900,830));
+        dibujarLinea(300,650,10,580);
+        lineasRectas.add(new Linea(300,750,10,680));
+
+
+
+        /*cambiarColorPincel("Verde");
+        dibujarLinea(300,750,1600,750);
+        cambiarColorPincel("Marron");
+        dibujarLinea(1600,750,1900,680);
+        lineasRectas.add(new Linea(1600,850,1900,780));*/
 
 
 
         cambiarColorPincel("Marron");
-        dibujarLinea(0,Pantalla.getAltoPantalla(),Pantalla.getAnchoPantalla()+400,Pantalla.getAltoPantalla());
-        lineasRectas.add(new Linea(0,Pantalla.getAltoPantalla(),1900,830));
+        dibujarLinea(0,Pantalla.getAltoPantalla()-150,Pantalla.getAnchoPantalla()+400,Pantalla.getAltoPantalla()-150);
+        lineasRectas.add(new Linea(0,Pantalla.getAltoPantalla(),1900,680));
 
 
 
